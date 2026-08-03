@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Gender,Email,City,State,Country,JoinDate
+C010001,David,John,Male,john21@example.net,New Roberttown,Colorado,Cuba,9/24/2022
+C010002,Caro,Richie,Female,carol@example.com,Port Lindachester,Michigan,Fiji,5/6/2022
+C000003,Joan,Rolland,Female,joan@example.com,Lindsaymouth,Ohio,British Virgin Islands,6/7/2026
+C000004,Nike,Albert,Female,nike@example.net,Port Keith,Colorado,Timor-Leste,9/24/2022
+C000005,Amad,Vick,Male,amad@example.net,Port Keith,Colorado,Timor-Leste,9/25/2022

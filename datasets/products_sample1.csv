@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Brand,CostPrice,SellingPrice
+P01001,Dedicate,Clothing,Brand44,51.68,68.74
+P01002,Determination,Clothing,Brand38,490.76,581.74
+P01003,Faithful,Clothing,Brand10,464.93,545.94
+P01004,Success,Groceries,Brand30,19.29,27.43
+P01005,Oracle,Electronics,Brand22,316.04,407.22
